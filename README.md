@@ -1,3 +1,3 @@
 # Multiplayer-Mobile-FPS
 
-- This is a mobile multiplayer FPS game
+-  is a mobile multiplayer FPS game
