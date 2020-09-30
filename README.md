@@ -1,4 +1,4 @@
 # Multiplayer-Mobile-FPS
 
 - This is a mobile multiplayer FPS game
-- In this game we will have two players in t
+- In this game we will have two players in th
